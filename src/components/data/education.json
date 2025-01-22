@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "role": "M.Sc.(Computer Science) ",
+    "organisation": "Indira College of Commerce and Science",
+    "startDate": "Aug, 2023",
+    "endDate": "Present",
+    "location": "Tathawade,Pune",
+    "experiences": [
+      "Worked on Google Gmail",
+      "Worked with the Google Bard Team"
+    ],
+    "imageSrc": "company/images(indira).png"
+  },
+  {
+    "id": 2,
+    "role": "B.Sc. Computer Science ",
+    "organisation": "Indira College of Commerce and Science",
+    "startDate": "Aug, 2020",
+    "endDate": "Aug, 2023",
+    "location": "Tathawade,Pune",
+    "experiences": [
+      "Worked on Windows 10 terminal",
+      "Worked on Window 11 Upcoming features"
+    ],
+    "imageSrc": "company/images(indira).png"
+  },
+  {
+    "id": 3,
+    "role": "HSC",
+    "organisation": "Dr.D.Y.Patil College",
+    "startDate": "Apr, 2019",
+    "endDate": "March, 2020",
+    "location": "Akurdi,Pune ",
+    "experiences": [
+      "Worked on Nextflix payment system",
+      "Helped to create UI for video player"
+    ],
+    "imageSrc": "company/images(d.y.patil).png"
+  }
+]
